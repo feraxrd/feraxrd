@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/238221570504523776)](https://discord.com/users/238221570504523776)
+[![Discord Presence](https://lanyard.cnrad.dev/api/238221570504523776)](https://discord.com/users/238221570504523776)
 
 ### 🔗 Social:
 <p align="center">
