@@ -9,7 +9,7 @@
   <a href="https://discord.gg/uptimebot"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://instagram.com/feraxrd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://YouTube.com/@feraxrd"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="[https://spotify.com/user/feraxrd](https://open.spotify.com/intl-tr/artist/28liayDw1TlsdbfaAStxzs?si=YxpSLMu6R6GooRNjbO5DKQ)"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
+  <a href="https://open.spotify.com/intl-tr/artist/28liayDw1TlsdbfaAStxzs?si=YxpSLMu6R6GooRNjbO5DKQ"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
 </p>
 
 ### Languages and Tools:
