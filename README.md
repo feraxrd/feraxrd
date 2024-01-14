@@ -1,9 +1,4 @@
-<div align="center">
-  <img src="https://cdn.discordapp.com/avatars/238221570504523776/3a161f9614039549291da5c2730adef3.png?size=1024" width="100px" style="border-radius:50%">
-  <h1>feraxrd</h1>
-  <p>I'm not currently doing anything!</p>
-</div>
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/238221570504523776)](https://discord.com/users/238221570504523776)
 
 ### 🔗 Social:
 <p align="center">
