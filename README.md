@@ -4,11 +4,6 @@
   <p>I'm not currently doing anything!</p>
 </div>
 
-<hr style="height:1px;border:none;color:#333;background-color:#333;" />
-  <h1>feraxrd</h1>
-  <p>god</p>
-</div>
-
 ### 🔗 Social:
 <p align="center">
   <a href="https://discord.gg/uptimebot"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
