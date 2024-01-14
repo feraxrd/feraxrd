@@ -1,5 +1,10 @@
 <div align="center">
   <img src="https://images-ext-2.discordapp.net/external/7BEJtWIUOgs35U_sTWqge5ovwhCQqgHugwoV52Kjs3M/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/238221570504523776/3a161f9614039549291da5c2730adef3.png" width="100px" style="border-radius:50%">
+    <h1>feraxrd</h1>
+  <p>I'm not currently doing anything!</p>
+</div>
+
+<hr style="height:1px;border:none;color:#333;background-color:#333;" />
   <h1>feraxrd</h1>
   <p>god</p>
 </div>
