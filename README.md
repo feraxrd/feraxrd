@@ -35,3 +35,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=feraxrd&theme=dark&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feraxrd&theme=dark&layout=compact" />
 </p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=feraxrd&theme=darkhub&no-frame=true" />
+</p>
